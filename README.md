@@ -1,2 +1,2 @@
 # discord-tutorial
-my first hands on repo!
+my first hands on project!
